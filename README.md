@@ -1,3 +1,17 @@
+## Features
+
+- Display organisational chart of a company
+- Each node contains fullname and designation of the employee
+- Contains zoom in/out feature
+- Show/Hide branch by clicking on particular node
+- Drag/Drop chart
+- JSON data to mimic API results
+
+## Technology
+
+- React JS
+- react-orgchart
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

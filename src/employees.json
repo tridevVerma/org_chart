@@ -1,0 +1,207 @@
+{
+  "ds": {
+    "id": null,
+    "name": "",
+    "title": "",
+    "children": [
+      {
+        "id": "1",
+        "name": "Alice Anderson",
+        "email": "alice.anderson@example.com",
+        "title": "Founder",
+        "children": [
+          {
+            "id": "3",
+            "name": "Carol CEO",
+            "email": "carol.ceo@example.com",
+            "title": "CEO",
+            "children": [
+              {
+                "id": "6",
+                "name": "Frank Sales Mgr",
+                "email": "frank.sales@example.com",
+                "title": "Sales Manager",
+                "children": [
+                  {
+                    "id": "10",
+                    "name": "Jack Sales TL",
+                    "email": "jack.sales@example.com",
+                    "title": "Sales Team Leader",
+                    "children": [
+                      {
+                        "id": "18",
+                        "name": "Rachel Sales Rep",
+                        "email": "rachel.sales@example.com",
+                        "title": "Sales Representative"
+                      },
+                      {
+                        "id": "19",
+                        "name": "Sam Sales Rep",
+                        "email": "sam.sales@example.com",
+                        "title": "Sales Representative"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "11",
+                    "name": "Kelly Sales TL",
+                    "email": "kelly.sales@example.com",
+                    "title": "Sales Team Leader",
+                    "children": [
+                      {
+                        "id": "20",
+                        "name": "Tina Sales Rep",
+                        "email": "tina.sales@example.com",
+                        "title": "Sales Representative"
+                      },
+                      {
+                        "id": "21",
+                        "name": "Victor Sales Rep",
+                        "email": "victor.sales@example.com",
+                        "title": "Sales Representative"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "7",
+                "name": "Grace Marketing Mgr",
+                "email": "grace.marketing@example.com",
+                "title": "Marketing Manager",
+                "children": [
+                  {
+                    "id": "12",
+                    "name": "Leo Mktg TL",
+                    "email": "leo.marketing@example.com",
+                    "title": "Marketing Team Leader",
+                    "children": [
+                      {
+                        "id": "22",
+                        "name": "Wendy Mktg Rep",
+                        "email": "wendy.marketing@example.com",
+                        "title": "Marketer"
+                      },
+                      {
+                        "id": "23",
+                        "name": "Xavier Mktg Rep",
+                        "email": "xavier.marketing@example.com",
+                        "title": "Marketer"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "13",
+                    "name": "Maria Mktg TL",
+                    "email": "maria.marketing@example.com",
+                    "title": "Marketing Team Leader"
+                  }
+                ]
+              },
+              {
+                "id": "8",
+                "name": "Henry Ops Mgr",
+                "email": "henry.ops@example.com",
+                "title": "Operations Manager",
+                "children": [
+                  {
+                    "id": "14",
+                    "name": "Nathan Ops TL",
+                    "email": "nathan.ops@example.com",
+                    "title": "Operations Team Leader",
+                    "children": [
+                      {
+                        "id": "24",
+                        "name": "Yara Ops Staff",
+                        "email": "yara.ops@example.com",
+                        "title": "Operations Staff"
+                      },
+                      {
+                        "id": "25",
+                        "name": "Zach Ops Staff",
+                        "email": "zach.ops@example.com",
+                        "title": "Operations Staff"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "15",
+                    "name": "Olivia Ops TL",
+                    "email": "olivia.ops@example.com",
+                    "title": "Operations Team Leader"
+                  }
+                ]
+              },
+              {
+                "id": "9",
+                "name": "Irene Tech Mgr",
+                "email": "irene.tech@example.com",
+                "title": "Technology Manager",
+                "children": [
+                  {
+                    "id": "16",
+                    "name": "Paul Tech TL",
+                    "email": "paul.tech@example.com",
+                    "title": "Technology Team Leader",
+                    "children": [
+                      {
+                        "id": "26",
+                        "name": "Alex Tech Staff",
+                        "email": "alex.tech@example.com",
+                        "title": "Technology Staff"
+                      },
+                      {
+                        "id": "27",
+                        "name": "Bella Tech Staff",
+                        "email": "bella.tech@example.com",
+                        "title": "Technology Staff"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "17",
+                    "name": "Quinn Tech TL",
+                    "email": "quinn.tech@example.com",
+                    "title": "Technology Team Leader",
+                    "children": [
+                      {
+                        "id": "28",
+                        "name": "Chris Tech Staff",
+                        "email": "chris.tech@example.com",
+                        "title": "Technology Staff"
+                      },
+                      {
+                        "id": "29",
+                        "name": "Dana Tech Staff",
+                        "email": "dana.tech@example.com",
+                        "title": "Technology Staff"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "name": "David HR",
+            "email": "david.hr@example.com",
+            "title": "CHRO"
+          },
+          {
+            "id": "5",
+            "name": "Eric CFO",
+            "email": "eric.cfo@example.com",
+            "title": "CFO"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Bob Barker",
+        "email": "bob.barker@example.com",
+        "title": "Founder"
+      }
+    ]
+  }
+}
