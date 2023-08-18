@@ -1,3 +1,11 @@
+## Screenshots
+
+![Screenshot (15)](https://github.com/tridevVerma/org_chart/assets/47333699/fee521e2-05d8-4126-977f-304d046d888c)
+
+![Screenshot (16)](https://github.com/tridevVerma/org_chart/assets/47333699/7f415a37-9aac-4aba-ae27-033d542033c2)
+
+![Screenshot (18)](https://github.com/tridevVerma/org_chart/assets/47333699/6dd9fb31-ec4b-43a8-b572-13271469fc50)
+
 ## Features
 
 - Display organisational chart of a company
